@@ -1,0 +1,8 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project configurations
+.vs/
+bin/
+obj/
+
+# Ignore Git repository configuration and data
+.git/
